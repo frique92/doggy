@@ -1,0 +1,5 @@
+.list-group-item:hover {
+    cursor: pointer;
+    background-color: #54c1da;
+    transition: background-color .3s cubic-bezier(0.47, 0, 0.75, 0.72);
+}
